@@ -57,8 +57,23 @@
 <h2 align="center"> <img src="imgs/title3.png" width="25"/> <em>Statistics</em> </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayuwr&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayuwr&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuwr&layout=compact&theme=dark&hide_border=true" height="170"/>
   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuwr&theme=dark&hide_border=true" height="170"/>
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuwr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+</div>
+
+<br/>
+
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em>Best Repositories</em> </h2>
+
+<div align="center">
+  <a href="https://github.com/ayuwr/kana-dojo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuwr&repo=kana-dojo&theme=dark" /></a>
+  <a href="https://github.com/ayuwr/xistey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuwr&repo=xistey&theme=dark" /></a>
+  <a href="https://github.com/ayuwr/moby"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuwr&repo=moby&theme=dark" /></a>
+  <a href="https://github.com/ayuwr/ecommerce-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuwr&repo=ecommerce-api&theme=dark" /></a>
+  <a href="https://github.com/ayuwr/notes-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuwr&repo=notes-app&theme=dark" /></a>
+  <a href="https://github.com/ayuwr/weather-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayuwr&repo=weather-app&theme=dark" /></a>
 </div>
