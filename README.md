@@ -13,29 +13,26 @@
 
 ---
 
-<h2 align="center">🧑‍💻 About me</h2>
+<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About me</em> </h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" />
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 
-<br>
+<br/>
 
-> Hello There! I'm **Benjamin Solano**, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working on some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+> Hello There! I'm **ayu**, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working on some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 
 <br clear="both"/>
 
 <p align="center">
-  🎓 Studying at the **National University of Costa Rica (UNA)**
-  <br/>
-  👨‍🏫 Private tutor in C++ at the University
-  <br/>
-  🏆 Competitor in the ICPC (2025 - 2026)
-  <br/>
-  ♟️ Chess Player
+  <img src="imgs/img3.png" width="15"/> <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
+  <img src="imgs/img4.png" width="15"/> <em><b> Private tutor in C++ at the University </b></em><br/>
+  <img src="imgs/img2.png" width="15"/> <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
+  <img src="imgs/img1.png" width="15"/> <em><b> Chess Player </b></em><br/>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Technologies</h2>
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em>Technologies</em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -57,7 +54,7 @@
 
 ---
 
-<h2 align="center">📊 Statistics</h2>
+<h2 align="center"> <img src="imgs/title3.png" width="25"/> <em>Statistics</em> </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayuwr&show_icons=true&theme=dark&hide_border=true" height="170"/>
